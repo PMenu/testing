@@ -1,4 +1,4 @@
-// templatemo 467 easy profile
+// templatemo 467 pmenu
 
 // PRELOADER
 
